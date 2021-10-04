@@ -1,0 +1,7 @@
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\bin\Debug\Lb4.1.exe.config
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\bin\Debug\Lb4.1.exe
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\bin\Debug\Lb4.1.pdb
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\obj\Debug\Lb4.1.csprojAssemblyReference.cache
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\obj\Debug\Lb4.1.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\obj\Debug\Lb4.1.exe
+C:\Users\Kolya\source\repos\Lb4.1\Lb4.1\obj\Debug\Lb4.1.pdb
