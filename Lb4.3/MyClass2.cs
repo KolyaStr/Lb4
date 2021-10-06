@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Lb4._3
 {
@@ -20,9 +21,9 @@ namespace Lb4._3
         
         public override void Print()
         {
-            Console.WriteLine(strClass2 + "!");
-            Console.WriteLine(str);
-            Console.WriteLine();
+            
+            Debug.WriteLine(strClass2 + "!");
+            Debug.WriteLine(str);
         }
     }
 }

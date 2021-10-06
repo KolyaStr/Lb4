@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Lb4._3
 {
@@ -15,9 +16,8 @@ namespace Lb4._3
             myClass1.Print();
 
             MyClass2 myClass2 = new MyClass2();
-            Console.WriteLine("Введите информацию для класса 2:");
-            Console.WriteLine();
-            myClass2.Str = Console.ReadLine();
+            Debug.WriteLine("Введите информацию для класса 2:");
+            myClass2.Str = "Строка";
             myClass2.Print();
 
             MyClass3 myClass3 = new MyClass3();

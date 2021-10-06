@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Lb4._3
 {
@@ -21,11 +22,11 @@ namespace Lb4._3
 
         public virtual void Print()
         {
-            Console.WriteLine("Класс №1");
-            Console.WriteLine(str1);
-            Console.WriteLine(str2);
-            Console.WriteLine(x);
-            Console.WriteLine();
+            
+            Debug.WriteLine("Класс №1");
+            Debug.WriteLine(str1);
+            Debug.WriteLine(str2);
+            Debug.WriteLine(x);
         }
     }
 }

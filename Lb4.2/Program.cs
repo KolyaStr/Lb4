@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Lb4._2
 {
@@ -38,6 +39,7 @@ namespace Lb4._2
             ClassA classA = new ClassA(classC, classE);
             classA.actionA();
 
+            
         }
     }
 }

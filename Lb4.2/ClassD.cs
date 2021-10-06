@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Lb4._2
 {
@@ -16,8 +17,8 @@ namespace Lb4._2
         }
         public override void Print()
         {
-            Console.WriteLine($"a = {a};");
-            Console.WriteLine();
+            
+            Debug.WriteLine($"a = {a};");
         }
     }
 }
